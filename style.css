@@ -24,7 +24,7 @@ html {
   font-size: 62.5%;
 }
 
-.container {
+main {
   padding: 1rem;
   width: 20rem;
   background-color: var(--white);
@@ -59,3 +59,4 @@ p {
     width: 100%;
   }
 }
+
